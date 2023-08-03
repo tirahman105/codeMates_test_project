@@ -8,4 +8,5 @@ Asif
 Raqibur Rahman 2
 Samsul Alam Asif 
 
-I want to get error. 
+I want to get error.
+Git error solving 
