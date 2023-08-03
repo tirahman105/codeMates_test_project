@@ -10,4 +10,9 @@ Asif
 Azmal Gazi
 
 Tareq new line
+<<<<<<< HEAD
 >>>>>>> f2dc09dcc6e28fe95116ffd97b3d966729d78fce
+=======
+
+To fix error
+>>>>>>> a05bde85251638fad2ab635c1611a056f8ae116c
