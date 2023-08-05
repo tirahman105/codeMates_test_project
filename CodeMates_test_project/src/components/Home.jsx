@@ -1,9 +1,19 @@
 import React from 'react';
+import Banner from './Banner';
+import Deals from './Deals';
+import Team from './Team';
+import Choose from './Choose';
+import Review from './Review';
 
 const Home = () => {
     return (
         <div>
-            <h1>This is home page</h1>
+            <Banner></Banner>
+            <Deals></Deals>
+            <Team></Team>
+            <Choose></Choose>
+            <Review></Review>
+        
         </div>
     );
 };
