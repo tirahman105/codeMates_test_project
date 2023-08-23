@@ -4,6 +4,7 @@ import Main from "../Layout/Main";
 import About from "../components/About";
 import Shop from "../components/Shop";
 import AllFruits from "../components/AllFruits";
+import AddQuizForm from "../components/AddQuizForm";
 
 const router = createBrowserRouter([
   {
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
         path: "/allfruits",
         element: <AllFruits></AllFruits>,
       },
+      {
+        path: "/quiz",
+        element: <AddQuizForm></AddQuizForm>
+      }
     ],
   },
 ]);
